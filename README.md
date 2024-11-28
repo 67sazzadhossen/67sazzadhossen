@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/67sazzadhossen">
-    <img height="75" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png">
+    <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/linkedin.png?raw=true">
   </a>
   <a href="https://www.facebook.com/sazzad.hossen19">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
+    <img height="75" src="https://raw.githubusercontent.com/67sazzadhossen/67sazzadhossen/351497f477244f3647a82b8bb37d66326cdc45f9/assets/facebook.svg">
   </a>
   <a href="https://twitter.com/sazzadhossen010">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+    <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/twitter.png?raw=true">
   </a>
 </p>
 
