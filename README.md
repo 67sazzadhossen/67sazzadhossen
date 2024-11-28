@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/sazzad.hossen19/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/image.png?raw=true" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
