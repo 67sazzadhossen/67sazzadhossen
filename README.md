@@ -15,10 +15,10 @@
     <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/linkedin.png?raw=true">
   </a>
   <a href="https://www.facebook.com/sazzad.hossen19">
-    <img height="75" src="https://raw.githubusercontent.com/67sazzadhossen/67sazzadhossen/351497f477244f3647a82b8bb37d66326cdc45f9/assets/facebook.svg">
+    <img height="85" src="https://raw.githubusercontent.com/67sazzadhossen/67sazzadhossen/351497f477244f3647a82b8bb37d66326cdc45f9/assets/facebook.svg">
   </a>
   <a href="https://twitter.com/sazzadhossen010">
-    <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/twitter.png?raw=true">
+    <img height="95" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/twitter.png?raw=true">
   </a>
 </p>
 
