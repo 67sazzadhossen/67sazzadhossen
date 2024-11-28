@@ -1,6 +1,8 @@
+<p align='center'>
 <a href="https://www.facebook.com/sazzad.hossen19/">
-<img align='center' src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/image.png?raw=true" />
+<img  src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/image.png?raw=true" />
 </a>
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 <p align='center'>
