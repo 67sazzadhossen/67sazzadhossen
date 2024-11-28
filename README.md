@@ -37,16 +37,16 @@
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/JavaScript.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/c.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/cpp.png?raw=true"/>
+<img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/react.png?raw=true"/>
 </p>
 <p align="center">
-<img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/react.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/redux.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/sass.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/tailwind.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/Bootsrap.png?raw=true"/>
+<img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/firebase.png?raw=true"/>
 </p>
 <p align="center">
-<img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/firebase.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/node.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/express.png?raw=true"/>
 <img src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/icons/mongo.png?raw=true"/>
