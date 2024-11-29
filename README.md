@@ -1,6 +1,6 @@
 <p align='center'>
 <a href="https://www.facebook.com/sazzad.hossen19/">
-<img  src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/image.png?raw=true" />
+<img  src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/cover.jpg?raw=true" />
 </a>
 </p>
 
